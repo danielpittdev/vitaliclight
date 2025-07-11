@@ -1,0 +1,18 @@
+# ! ATENCIÓN ! #
+Para usar esta plantilla debes tener lo siguiente en tu máquina:
+- Postgre SQL instalado
+- Node.js
+- NPM
+
+// Instalación rápida
+1. Crea un proyecto de Laravel en tu máquina local o servidor.
+
+2. Copia el contenido en tu proyecto, descargando este repositorio.
+
+3. Ejecuta el comando dentro de la carpeta del proyecto (RAIZ)
+   npm install
+
+4. Cuando termine, abre dos consolas y ejecuta lo siguiente:
+   npm run dev y php artisan serve (En dos distintos)
+
+5. Ya puedes empezar a disfrutar la plantilla :)
